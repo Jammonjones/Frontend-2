@@ -17,7 +17,7 @@ main.home div{
     font-size: 1.5rem;
     background-color: rgb(79, 136, 117);
     width: 350px;
-    height: 60vw;
+    height: 500px;
     margin: 30px auto;
     display: flex;
     flex-direction: column;
