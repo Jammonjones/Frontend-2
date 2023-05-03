@@ -31,6 +31,9 @@ main.home div a{
     margin: 4px;
     color: white;
 }
+main.home div a:hover{
+    color: black;
+}
 main.home div h2{
     align-self: center;
     margin-top: auto;

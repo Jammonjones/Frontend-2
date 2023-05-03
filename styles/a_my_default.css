@@ -103,3 +103,12 @@ img {
     max-width: 100%;
     height: auto;
 }
+.returnhome{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: red;
+    background-color: white;
+    padding: 5px;
+
+}
